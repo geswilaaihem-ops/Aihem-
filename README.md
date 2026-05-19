@@ -13,7 +13,7 @@ This tool scans a target IP address or website and checks which ports are open.
 
 ## Example Result
 
-Target scanned: 192.168.56.1
+Target scanned: Local lab machine
 
 Open ports found:
 
